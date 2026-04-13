@@ -1,1 +1,1 @@
-### The code for KANPM-DTA-Gen will be made available soon.
+#### KANPM-DTA-Gen code will be released soon.
